@@ -1,0 +1,17 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "stdio.h": "c",
+        "process.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/hgfs/shared/HW10_201924619",
+            "binaryPath": "\\mnt\\hgfs\\shared\\HW10_201924619\\main",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.errorSquiggles": "Disabled"
+}
