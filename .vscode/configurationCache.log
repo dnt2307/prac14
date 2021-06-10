@@ -1,1 +1,1 @@
-{"buildTargets":[".PHONY","all","clean","cleandep","cleandepw","cleanw","main","mainwin.exe"],"launchTargets":["d:\\Virtual Machines\\shared\\HW10_201924619>main()"],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
+{"buildTargets":[".PHONY","all","clean","cleandep","cleandepw","cleanw","mainwin.exe"],"launchTargets":["c:\\Users\\dnt23\\Documents\\GitHub\\prac14>mainwin.exe()"],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
